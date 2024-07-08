@@ -1,1 +1,39 @@
-this is file
+git clone httpsgit
+
+git remote add origin https
+
+git push -u origin
+
+
+git push --set-upstream origin master
+
+git branch -M main
+
+
+
+----file creation and commands ----
+
+touch file.txt
+
+git init
+
+ls -a
+
+git status
+
+git add file.txt
+
+git commit -m "message"
+
+
+git config --global user.email "email"
+
+git config user.name "name"
+
+git log
+
+git log --all --oneline --decorate --graph
+
+git reset --hard **code**
+
+
